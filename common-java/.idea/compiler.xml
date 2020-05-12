@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="distributed-lock" />
+        <module name="design-patterns" />
+        <module name="sorting-aigorithm" />
+        <module name="stack-queue" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-java" target="1.8" />
+      <module name="design-patterns" target="1.8" />
+      <module name="distributed-lock" target="1.8" />
+      <module name="sorting-aigorithm" target="1.8" />
+      <module name="stack-queue" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

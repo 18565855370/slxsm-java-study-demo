@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aca9ef3-60a6-44da-9347-c73db344c6cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sorting-aigorithm/src/main/java/com.slxsm.demo/bubble_sort/BubbleSort_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting-aigorithm/src/main/java/com.slxsm.demo/insertion_sort/InsertionSort_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting-aigorithm/src/main/java/com.slxsm.demo/merge_sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting-aigorithm/src/main/java/com.slxsm.demo/quick_sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting-aigorithm/src/main/java/com.slxsm.demo/selection_sort/SelectionSort_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/src/main/java/com.slxsm.sf/queue/ListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/src/main/java/com.slxsm.sf/queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/src/main/java/com.slxsm.sf/queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/src/main/java/com.slxsm.sf/stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/src/main/java/com.slxsm.sf/stack/ListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/src/main/java/com.slxsm.sf/stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack-queue/src/main/java/com.slxsm.sf/stack/MyStack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/软件/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\软件\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aiF0AQUxWOQbFZuX5iGrZyDVB5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../microservice-spring-cloud" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DistributedApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-lock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slxsm.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.slxsm.demo.DistributedApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DistributedApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aca9ef3-60a6-44da-9347-c73db344c6cf" name="Default Changelist" comment="" />
+      <created>1587210281333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587210281333</updated>
+      <workItem from="1587210285561" duration="2705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="120" width="643" height="429" key="#xdebugger.evaluate" timestamp="1587211252489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="120" width="643" height="429" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587211252489" />
+    <state width="452" height="466" key="DebuggerActiveHint" timestamp="1587211023222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="452" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1587211023222" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1587216019145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587216019145" />
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.2.bottom" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.2.center" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.2.left" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state width="1493" height="258" key="GridCell.Tab.2.right" timestamp="1587216019947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1587216019947" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587212203303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587212203303" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.slxsm.demo/redislock/service/SpikeSceneService.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.slxsm.demo/redislock/service/SpikeSceneService.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

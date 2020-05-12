@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-java.iml" filepath="$PROJECT_DIR$/common-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-lock/distributed-lock.iml" filepath="$PROJECT_DIR$/distributed-lock/distributed-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting-aigorithm/sorting-aigorithm.iml" filepath="$PROJECT_DIR$/sorting-aigorithm/sorting-aigorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack-queue/stack-queue.iml" filepath="$PROJECT_DIR$/stack-queue/stack-queue.iml" />
+    </modules>
+  </component>
+</project>
